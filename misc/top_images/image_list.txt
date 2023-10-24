@@ -21,7 +21,6 @@ registry
 debian
 sonarqube
 wordpress
-influxdb
 tomcat
 amazonlinux
 maven
